@@ -2,12 +2,12 @@
 
 Katalog `/ss_test` zawiera pełne archiwum zrzutów ekranu z przebiegu optymalizacji, dokumentujących każde z 5 uruchomień (*Run 1-5*) dla wszystkich wariantów badawczych (* `tab_param` – Zestawienie konfiguracji wszystkich scenariuszy) oraz zbiorcze podsumowania. Archiwum zostało podzielone na następujące foldery:
 
-### 📂 Folder `wyniki/`
+### 📂 Folder `Wyniki/`
 * `tab_trasy` – Zbiorcze wyniki długości tras.
 * `tab_czasu` – Czasy procesora dla poszczególnych testów.
 * `tab_acc` – Końcowe współczynniki akceptacji ($acc$).
 
-### 📂 Folder `bazowe/`
+### 📂 Folder `Bazowe/`
 Screeny z 5 uruchomień dla parametrów standardowych ($n=100$, $T_0=10\,000$, $\alpha=0.97$, $changes=100$)
 
 ### 📂 Folder `T/`
